@@ -191,7 +191,7 @@ h3 {
 
 /* line 119, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_common.scss */
 h5 {
-  font-size: 18px;
+  font-size: 15px;
   line-height: 22px;
 }
 
@@ -2496,18 +2496,19 @@ ul {
 
 /* line 71, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_banner.scss */
 .banner_part .banner_text h5 {
+  
   font-size: 30px;
   color: #fff;
 }
 
 /* line 75, /Applications/MAMP/htdocs/palash/cl/july 2019/july/195 Resume/195 resume html/sass/_banner.scss */
 .banner_part .banner_text h1 {
-  font-size: 80px;
-  font-weight: 400;
+  font-size: 60px;
+  font-weight: 300;
   margin-bottom: 65px;
-  line-height: 96px;
+  line-height: 70px;
   color: #fff;
-  margin-top: 35px;
+  margin-top: 30px;
 }
 
 @media (max-width: 991px) {
